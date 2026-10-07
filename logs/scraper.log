@@ -1,0 +1,129 @@
+2026-10-07 22:31:59,056 [INFO] Pipeline: === ETL PIPELINE STARTED ===
+2026-10-07 22:31:59,057 [INFO] scrapers.books_scraper: [Books to Scrape] Page 1: https://books.toscrape.com/catalogue/page-1.html
+2026-10-07 22:31:59,558 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-1.html
+2026-10-07 22:32:20,694 [INFO] scrapers.books_scraper: [Books to Scrape] Page 2: https://books.toscrape.com/catalogue/page-2.html
+2026-10-07 22:32:21,195 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-2.html
+2026-10-07 22:32:25,786 [INFO] scrapers.books_scraper: [Books to Scrape] Page 3: https://books.toscrape.com/catalogue/page-3.html
+2026-10-07 22:32:26,287 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-3.html
+2026-10-07 22:32:32,566 [INFO] scrapers.books_scraper: [Books to Scrape] Page 4: https://books.toscrape.com/catalogue/page-4.html
+2026-10-07 22:32:33,067 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-4.html
+2026-10-07 22:32:41,437 [INFO] scrapers.books_scraper: [Books to Scrape] Page 5: https://books.toscrape.com/catalogue/page-5.html
+2026-10-07 22:32:41,938 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-5.html
+2026-10-07 22:32:50,130 [INFO] scrapers.books_scraper: [Books to Scrape] Page 6: https://books.toscrape.com/catalogue/page-6.html
+2026-10-07 22:32:50,630 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-6.html
+2026-10-07 22:32:58,921 [INFO] scrapers.books_scraper: [Books to Scrape] Page 7: https://books.toscrape.com/catalogue/page-7.html
+2026-10-07 22:32:59,421 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-7.html
+2026-10-07 22:33:04,993 [INFO] scrapers.books_scraper: [Books to Scrape] Page 8: https://books.toscrape.com/catalogue/page-8.html
+2026-10-07 22:33:05,493 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-8.html
+2026-10-07 22:33:08,586 [INFO] scrapers.books_scraper: [Books to Scrape] Page 9: https://books.toscrape.com/catalogue/page-9.html
+2026-10-07 22:33:09,087 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-9.html
+2026-10-07 22:33:19,400 [INFO] scrapers.books_scraper: [Books to Scrape] Page 10: https://books.toscrape.com/catalogue/page-10.html
+2026-10-07 22:33:19,901 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-10.html
+2026-10-07 22:33:30,535 [INFO] scrapers.books_scraper: [Books to Scrape] Page 11: https://books.toscrape.com/catalogue/page-11.html
+2026-10-07 22:33:31,035 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-11.html
+2026-10-07 22:34:04,023 [INFO] scrapers.books_scraper: [Books to Scrape] Page 12: https://books.toscrape.com/catalogue/page-12.html
+2026-10-07 22:34:04,524 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-12.html
+2026-10-07 22:34:12,488 [INFO] scrapers.books_scraper: [Books to Scrape] Page 13: https://books.toscrape.com/catalogue/page-13.html
+2026-10-07 22:34:12,989 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-13.html
+2026-10-07 22:34:23,402 [INFO] scrapers.books_scraper: [Books to Scrape] Page 14: https://books.toscrape.com/catalogue/page-14.html
+2026-10-07 22:34:23,903 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-14.html
+2026-10-07 22:34:29,605 [INFO] scrapers.books_scraper: [Books to Scrape] Page 15: https://books.toscrape.com/catalogue/page-15.html
+2026-10-07 22:34:30,106 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-15.html
+2026-10-07 22:34:35,373 [INFO] scrapers.books_scraper: [Books to Scrape] Page 16: https://books.toscrape.com/catalogue/page-16.html
+2026-10-07 22:34:35,873 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-16.html
+2026-10-07 22:34:39,257 [INFO] scrapers.books_scraper: [Books to Scrape] Page 17: https://books.toscrape.com/catalogue/page-17.html
+2026-10-07 22:34:39,758 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-17.html
+2026-10-07 22:34:43,508 [INFO] scrapers.books_scraper: [Books to Scrape] Page 18: https://books.toscrape.com/catalogue/page-18.html
+2026-10-07 22:34:44,009 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-18.html
+2026-10-07 22:34:47,348 [INFO] scrapers.books_scraper: [Books to Scrape] Page 19: https://books.toscrape.com/catalogue/page-19.html
+2026-10-07 22:34:47,849 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-19.html
+2026-10-07 22:34:49,944 [INFO] scrapers.books_scraper: [Books to Scrape] Page 20: https://books.toscrape.com/catalogue/page-20.html
+2026-10-07 22:34:50,445 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-20.html
+2026-10-07 22:34:52,123 [INFO] scrapers.books_scraper: [Books to Scrape] Page 21: https://books.toscrape.com/catalogue/page-21.html
+2026-10-07 22:34:52,624 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-21.html
+2026-10-07 22:34:55,555 [INFO] scrapers.books_scraper: [Books to Scrape] Page 22: https://books.toscrape.com/catalogue/page-22.html
+2026-10-07 22:34:56,055 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-22.html
+2026-10-07 22:34:59,723 [INFO] scrapers.books_scraper: [Books to Scrape] Page 23: https://books.toscrape.com/catalogue/page-23.html
+2026-10-07 22:35:00,224 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-23.html
+2026-10-07 22:35:01,652 [INFO] scrapers.books_scraper: [Books to Scrape] Page 24: https://books.toscrape.com/catalogue/page-24.html
+2026-10-07 22:35:02,152 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-24.html
+2026-10-07 22:35:04,219 [INFO] scrapers.books_scraper: [Books to Scrape] Page 25: https://books.toscrape.com/catalogue/page-25.html
+2026-10-07 22:35:04,719 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-25.html
+2026-10-07 22:35:05,806 [INFO] scrapers.books_scraper: [Books to Scrape] Page 26: https://books.toscrape.com/catalogue/page-26.html
+2026-10-07 22:35:06,307 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-26.html
+2026-10-07 22:35:07,261 [INFO] scrapers.books_scraper: [Books to Scrape] Page 27: https://books.toscrape.com/catalogue/page-27.html
+2026-10-07 22:35:07,761 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-27.html
+2026-10-07 22:35:13,930 [INFO] scrapers.books_scraper: [Books to Scrape] Page 28: https://books.toscrape.com/catalogue/page-28.html
+2026-10-07 22:35:14,431 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-28.html
+2026-10-07 22:35:16,698 [INFO] scrapers.books_scraper: [Books to Scrape] Page 29: https://books.toscrape.com/catalogue/page-29.html
+2026-10-07 22:35:17,198 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-29.html
+2026-10-07 22:35:18,727 [INFO] scrapers.books_scraper: [Books to Scrape] Page 30: https://books.toscrape.com/catalogue/page-30.html
+2026-10-07 22:35:19,228 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-30.html
+2026-10-07 22:35:20,567 [INFO] scrapers.books_scraper: [Books to Scrape] Page 31: https://books.toscrape.com/catalogue/page-31.html
+2026-10-07 22:35:21,068 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-31.html
+2026-10-07 22:35:21,749 [INFO] scrapers.books_scraper: [Books to Scrape] Page 32: https://books.toscrape.com/catalogue/page-32.html
+2026-10-07 22:35:22,250 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-32.html
+2026-10-07 22:35:22,889 [INFO] scrapers.books_scraper: [Books to Scrape] Page 33: https://books.toscrape.com/catalogue/page-33.html
+2026-10-07 22:35:23,390 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-33.html
+2026-10-07 22:35:24,730 [INFO] scrapers.books_scraper: [Books to Scrape] Page 34: https://books.toscrape.com/catalogue/page-34.html
+2026-10-07 22:35:25,231 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-34.html
+2026-10-07 22:35:28,556 [INFO] scrapers.books_scraper: [Books to Scrape] Page 35: https://books.toscrape.com/catalogue/page-35.html
+2026-10-07 22:35:29,057 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-35.html
+2026-10-07 22:35:30,227 [INFO] scrapers.books_scraper: [Books to Scrape] Page 36: https://books.toscrape.com/catalogue/page-36.html
+2026-10-07 22:35:30,727 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-36.html
+2026-10-07 22:35:45,681 [INFO] scrapers.books_scraper: [Books to Scrape] Page 37: https://books.toscrape.com/catalogue/page-37.html
+2026-10-07 22:35:46,182 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-37.html
+2026-10-07 22:35:54,773 [INFO] scrapers.books_scraper: [Books to Scrape] Page 38: https://books.toscrape.com/catalogue/page-38.html
+2026-10-07 22:35:55,273 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-38.html
+2026-10-07 22:36:05,794 [INFO] scrapers.books_scraper: [Books to Scrape] Page 39: https://books.toscrape.com/catalogue/page-39.html
+2026-10-07 22:36:06,295 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-39.html
+2026-10-07 22:36:10,059 [INFO] scrapers.books_scraper: [Books to Scrape] Page 40: https://books.toscrape.com/catalogue/page-40.html
+2026-10-07 22:36:10,559 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-40.html
+2026-10-07 22:36:18,037 [INFO] scrapers.books_scraper: [Books to Scrape] Page 41: https://books.toscrape.com/catalogue/page-41.html
+2026-10-07 22:36:18,538 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-41.html
+2026-10-07 22:36:21,066 [INFO] scrapers.books_scraper: [Books to Scrape] Page 42: https://books.toscrape.com/catalogue/page-42.html
+2026-10-07 22:36:21,566 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-42.html
+2026-10-07 22:36:23,097 [INFO] scrapers.books_scraper: [Books to Scrape] Page 43: https://books.toscrape.com/catalogue/page-43.html
+2026-10-07 22:36:23,597 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-43.html
+2026-10-07 22:36:24,556 [INFO] scrapers.books_scraper: [Books to Scrape] Page 44: https://books.toscrape.com/catalogue/page-44.html
+2026-10-07 22:36:25,056 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-44.html
+2026-10-07 22:36:26,259 [INFO] scrapers.books_scraper: [Books to Scrape] Page 45: https://books.toscrape.com/catalogue/page-45.html
+2026-10-07 22:36:26,759 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-45.html
+2026-10-07 22:36:27,700 [INFO] scrapers.books_scraper: [Books to Scrape] Page 46: https://books.toscrape.com/catalogue/page-46.html
+2026-10-07 22:36:28,200 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-46.html
+2026-10-07 22:36:28,839 [INFO] scrapers.books_scraper: [Books to Scrape] Page 47: https://books.toscrape.com/catalogue/page-47.html
+2026-10-07 22:36:29,340 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-47.html
+2026-10-07 22:36:30,088 [INFO] scrapers.books_scraper: [Books to Scrape] Page 48: https://books.toscrape.com/catalogue/page-48.html
+2026-10-07 22:36:30,588 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-48.html
+2026-10-07 22:36:31,213 [INFO] scrapers.books_scraper: [Books to Scrape] Page 49: https://books.toscrape.com/catalogue/page-49.html
+2026-10-07 22:36:31,714 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-49.html
+2026-10-07 22:36:39,134 [INFO] scrapers.books_scraper: [Books to Scrape] Page 50: https://books.toscrape.com/catalogue/page-50.html
+2026-10-07 22:36:39,634 [INFO] scrapers.base_scraper: Fetching: https://books.toscrape.com/catalogue/page-50.html
+2026-10-07 22:36:46,834 [INFO] scrapers.books_scraper: [Books to Scrape] Scraping finished. Total collected raw records: 1000
+2026-10-07 22:36:46,835 [INFO] scrapers.quotes_scraper: [Quotes to Scrape] Page 1: https://quotes.toscrape.com/
+2026-10-07 22:36:47,335 [INFO] scrapers.base_scraper: Fetching: https://quotes.toscrape.com/
+2026-10-07 22:36:49,171 [INFO] scrapers.quotes_scraper: [Quotes to Scrape] Page 2: https://quotes.toscrape.com/page/2/
+2026-10-07 22:36:49,672 [INFO] scrapers.base_scraper: Fetching: https://quotes.toscrape.com/page/2/
+2026-10-07 22:36:50,335 [INFO] scrapers.quotes_scraper: [Quotes to Scrape] Page 3: https://quotes.toscrape.com/page/3/
+2026-10-07 22:36:50,836 [INFO] scrapers.base_scraper: Fetching: https://quotes.toscrape.com/page/3/
+2026-10-07 22:36:51,308 [INFO] scrapers.quotes_scraper: [Quotes to Scrape] Page 4: https://quotes.toscrape.com/page/4/
+2026-10-07 22:36:51,809 [INFO] scrapers.base_scraper: Fetching: https://quotes.toscrape.com/page/4/
+2026-10-07 22:36:52,081 [INFO] scrapers.quotes_scraper: [Quotes to Scrape] Page 5: https://quotes.toscrape.com/page/5/
+2026-10-07 22:36:52,582 [INFO] scrapers.base_scraper: Fetching: https://quotes.toscrape.com/page/5/
+2026-10-07 22:36:53,002 [INFO] scrapers.quotes_scraper: [Quotes to Scrape] Page 6: https://quotes.toscrape.com/page/6/
+2026-10-07 22:36:53,502 [INFO] scrapers.base_scraper: Fetching: https://quotes.toscrape.com/page/6/
+2026-10-07 22:36:53,822 [INFO] scrapers.quotes_scraper: [Quotes to Scrape] Page 7: https://quotes.toscrape.com/page/7/
+2026-10-07 22:36:54,323 [INFO] scrapers.base_scraper: Fetching: https://quotes.toscrape.com/page/7/
+2026-10-07 22:36:57,156 [INFO] scrapers.quotes_scraper: [Quotes to Scrape] Page 8: https://quotes.toscrape.com/page/8/
+2026-10-07 22:36:57,657 [INFO] scrapers.base_scraper: Fetching: https://quotes.toscrape.com/page/8/
+2026-10-07 22:36:58,286 [INFO] scrapers.quotes_scraper: [Quotes to Scrape] Page 9: https://quotes.toscrape.com/page/9/
+2026-10-07 22:36:58,786 [INFO] scrapers.base_scraper: Fetching: https://quotes.toscrape.com/page/9/
+2026-10-07 22:36:59,373 [INFO] scrapers.quotes_scraper: [Quotes to Scrape] Page 10: https://quotes.toscrape.com/page/10/
+2026-10-07 22:36:59,873 [INFO] scrapers.base_scraper: Fetching: https://quotes.toscrape.com/page/10/
+2026-10-07 22:37:00,190 [INFO] scrapers.quotes_scraper: [Quotes to Scrape] Scraping finished. Total collected raw records: 100
+2026-10-07 22:37:00,190 [INFO] Pipeline: Scraping completed. Books: 1000, Quotes: 100. Total: 1100
+2026-10-07 22:37:00,190 [INFO] Pipeline: Cleaning records...
+2026-10-07 22:37:00,205 [INFO] Pipeline: Validating records...
+2026-10-07 22:37:00,206 [INFO] Pipeline: Validation complete. Valid: 1100, Rejected: 0
+2026-10-07 22:37:00,207 [INFO] Pipeline: Deduplicating valid records...
+2026-10-07 22:37:00,212 [INFO] Pipeline: Deduplication complete. Unique retained: 1099, Duplicates found: 1
