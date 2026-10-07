@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Multi-Source Scraping & Consolidation Pipeline</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; max-width: 800px; margin: 40px auto; padding: 20px; line-height: 1.6; color: #333; }
+        h1 { color: #2c3e50; border-bottom: 2px solid #eee; padding-bottom: 10px; }
+        .card { background: #f8f9fa; border: 1px solid #e9ecef; border-radius: 8px; padding: 20px; margin: 20px 0; }
+        .metric { font-size: 24px; font-weight: bold; color: #2980b9; }
+        code { background: #eef2f5; padding: 2px 6px; border-radius: 4px; }
+    </style>
+</head>
+<body>
+    <h1>Multi-Source Web Scraping ETL Pipeline</h1>
+    <p>A production-ready Python ETL pipeline that scrapes, cleans, validates, and deduplicates data from <strong>Books to Scrape</strong> and <strong>Quotes to Scrape</strong>.</p>
+    
+    <div class="card">
+        <h3>Pipeline Execution Summary</h3>
+        <p>Total Records Collected: <span class="metric">1,100</span></p>
+        <p>Books Scraped: <strong>1,000</strong> (across 50 pages)</p>
+        <p>Quotes Scraped: <strong>100</strong> (across 10 pages)</p>
+        <p>Reconciliation Check: <strong style="color: green;">PASSED (True)</strong></p>
+    </div>
+
+    <h3>Tech Stack & Modules</h3>
+    <ul>
+        <li><code>Requests</code> with Exponential Backoff Retries</li>
+        <li><code>BeautifulSoup4</code> + <code>lxml</code> Parser</li>
+        <li>Dynamic Pagination via <code>li.next > a</code></li>
+        <li>SHA-256 Fingerprinting for Deduplication</li>
+        <li>Offline Unit Test Suite (<code>pytest</code>)</li>
+    </ul>
+</body>
+</html>
